@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaec4fb3-541a-4568-a539-a0c134c1a92b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SKILL PROJECT ML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="aaec4fb3-541a-4568-a539-a0c134c1a92b" name="Changes" comment="SONG GENRE CLASSIFICATION USING TEXT FILES">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726808218260</updated>
     </task>
+    <task id="LOCAL-00001" summary="SONG GENRE CLASSIFICATION USING TEXT FILES">
+      <option name="closed" value="true" />
+      <created>1729224406997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729224406997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SONG GENRE CLASSIFICATION USING TEXT FILES" />
+    <option name="LAST_COMMIT_MESSAGE" value="SONG GENRE CLASSIFICATION USING TEXT FILES" />
   </component>
 </project>
